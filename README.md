@@ -1,2 +1,3 @@
-# Metronome
-A Javascript metronome. Taken from the tutorial here: https://www.youtube.com/playlist?list=PLXAhCH9FJ8zU2lR4ZvJGianiyVJlqm0z0
+# Metronomo
+Aplicação web que consiste em um simulador de um metronomo atrravés de pulsos de duração regular, indica um andamento musical. Ele pode ser utilizado para fins de estudo.
+
